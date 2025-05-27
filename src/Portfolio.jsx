@@ -3,12 +3,12 @@ import { motion } from "framer-motion";
 
 // Images
 import profilePic from "./assets/profile.jpg";
-import project1 from "./assets/exo.jpg";
-import project3 from "./assets/csd.jpg";
-import project4 from "./assets/studF.jpg";
-import project5 from "./assets/CO.jpg";
-import project6 from "./assets/ddig.jpg";
-import project7 from "./assets/deli.jpg";
+import project1 from "./assets/exo.JPG";
+import project3 from "./assets/csd.JPG";
+import project4 from "./assets/studF.JPG";
+import project5 from "./assets/CO.JPG";
+import project6 from "./assets/ddig.JPG";
+import project7 from "./assets/deli.JPG";
 
 export default function Portfolio() {
   const projects = [
