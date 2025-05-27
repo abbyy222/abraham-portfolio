@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import profilePic from "./assets/profile.jpg";
 import project1 from "./assets/exo.JPG";
 import project3 from "./assets/csd.JPG";
-import project4 from "./assets/studF.JPG";
+import project4 from "./assets/StudF.JPG";
 import project5 from "./assets/CO.JPG";
 import project6 from "./assets/ddig.JPG";
 import project7 from "./assets/deli.JPG";
