@@ -9,6 +9,8 @@ import project4 from "./assets/StudF.JPG";
 import project5 from "./assets/CO.JPG";
 import project6 from "./assets/ddig.JPG";
 import project7 from "./assets/deli.JPG";
+import project8 from "./assets/beaut.JPG";
+import project9 from "./assets/psudo11.JPG";
 
 export default function Portfolio() {
   const projects = [
@@ -37,7 +39,16 @@ export default function Portfolio() {
       desc: "Rule-based app for recommending penalties and actions based on offence data inputs.",
       image: project6,
     },
-
+    {
+    title: "Mental Health Support Chatbot (Aurora)",
+    desc: "An empathetic AI chatbot offering emotional support in English and Pidgin, powered by Mistral/Gemini models. Backend in Express, frontend in React with TailwindCSS.",
+    image: project8,
+  },
+  {
+    title: "Car Rental Tracking System",
+    desc: "Full-stack app to manage car rentals and vehicle tracking using React, Express, Sequelize, and PostgreSQL with secure role-based login.",
+    image: project9S,
+  },
    {
     title: "Delivery Management System",
     desc: "A React-based logistics system using TailwindCSS and Express.js. Includes real-time delivery updates and email-based agent authentication.",
