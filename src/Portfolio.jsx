@@ -42,12 +42,12 @@ export default function Portfolio() {
     {
     title: "Mental Health Support Chatbot (Aurora)",
     desc: "An empathetic AI chatbot offering emotional support in English and Pidgin, powered by Mistral/Gemini models. Backend in Express, frontend in React with TailwindCSS.",
-    image: project8,
+    image: project9,
   },
   {
     title: "Car Rental Tracking System",
     desc: "Full-stack app to manage car rentals and vehicle tracking using React, Express, Sequelize, and PostgreSQL with secure role-based login.",
-    image: project9,
+    image: project8,
   },
    {
     title: "Delivery Management System",
