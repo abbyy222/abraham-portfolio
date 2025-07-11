@@ -47,7 +47,7 @@ export default function Portfolio() {
   {
     title: "Car Rental Tracking System",
     desc: "Full-stack app to manage car rentals and vehicle tracking using React, Express, Sequelize, and PostgreSQL with secure role-based login.",
-    image: project9S,
+    image: project9,
   },
    {
     title: "Delivery Management System",
